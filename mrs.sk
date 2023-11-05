@@ -1,0 +1,11 @@
+command /mrs:
+  permisson: mrs.use
+  trigger:
+    nopermisson message "&4&lNO USE IS A COMMAND"
+    message "&b&lSOON"
+
+# mrs = membership registration skript
+# use the Skript plugin [https://dev.bukkit.org/projects/skript] download and restart your server and 
+# put it in the YourMinecraftServerFolder/plugins/Skript/scripts/name.sk
+# name.sk = "name.sk" any name
+# and run to the command /sk reload name.sk
