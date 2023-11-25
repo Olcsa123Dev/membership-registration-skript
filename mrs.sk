@@ -6,6 +6,6 @@ command /mrs:
 
 # mrs = membership registration skript
 # use the Skript plugin [https://dev.bukkit.org/projects/skript] download and restart your server and 
-# put it in the YourMinecraftServerFolder/plugins/Skript/scripts/name.sk
-# name.sk = "name.sk" any name
-# and run to the console and player command /skript reload name.sk
+# put it in the YourMinecraftServerFolder/plugins/Skript/scripts/mrs.sk
+# mrs.sk = "mrs.sk" any name
+# and run to the console and player command /skript reload mrs.sk
